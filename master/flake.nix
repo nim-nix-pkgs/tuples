@@ -11,6 +11,7 @@
   inputs.src-tuples-master.ref   = "refs/heads/master";
   inputs.src-tuples-master.owner = "MasonMcGill";
   inputs.src-tuples-master.repo  = "tuples";
+  inputs.src-tuples-master.dir   = "";
   inputs.src-tuples-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
