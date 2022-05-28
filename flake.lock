@@ -68,11 +68,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652797893,
-        "narHash": "sha256-vpVCtZiNl+8seiz/9QiNWUtmE8Sqwfl0nyVHmT15+Pg=",
+        "lastModified": 1653690274,
+        "narHash": "sha256-lss9qJSrCxJhSJVVK1J8U6Q28tuO9nb2Tl9yC0xyV0M=",
         "owner": "nim-nix-pkgs",
         "repo": "tuples",
-        "rev": "414e8dced7ea15fdb21db994cd49f1cb58d946bb",
+        "rev": "0a77dbb08faac8c2885c78e4fe0edb3492babc3c",
         "type": "github"
       },
       "original": {
